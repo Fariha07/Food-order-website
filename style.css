@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    font-size: 30px;    
+}
+.change-color{
+    color: blueviolet;
+}
+section{
+    display: flex;
+}
+.maintain-size{
+    width: 40%;
+    padding-left: 10%;
+}
+.maintain-size img{
+    width: 70%;
+}
+.link-box{
+    text-decoration: none;
+    background-image: linear-gradient(violet, indigo);
+    padding: 10px;
+    color: cornsilk;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.maintain-size-again{
+    width: 20%;
+    
+}
+.maintain-size-again img{
+    width: 500%; 
+    padding-left: 1%;   
+}
+#size{
+    padding-left: 40%;
+    margin-top:10% ;
+    
+}
