@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     
+    
 }
 h1{
     font-size: 30px;    
@@ -41,7 +42,7 @@ section{
 }
 .large{
     text-align: center;
-    padding-left: 450px;
+    padding-left: 400px;
 }
 
 .flex{
@@ -49,16 +50,46 @@ section{
 }
 .new-size img{
     width: 50%;
-    padding-left: 80px;
+    padding-left: 60px;
+    padding-top: 40px;
+    
+    
 }
 .new-size{
+    box-shadow: 10px 10px 20px gray;
+    width: 30%;
+    border-radius: 40px;
     padding-left: 80px;
     margin-left: 40px;
     margin-top: 40px;
+    
 }
 p{
-    padding-left: 80px;
+    padding-left: 60px;
 }
 h3{
-    padding-left: 80px;
+    padding-left: 60px;
+    text-align: justify;
+}
+
+footer p{
+    text-align: center;
+    
+    color: white;
+    font-size: small;
+    
+    
+    
+}
+footer h3{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.orange-color{
+    color: orange;
+}footer{
+    background-color: black;
+    margin-top: 5%;
+    height: 150px;
 }
