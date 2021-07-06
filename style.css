@@ -43,3 +43,22 @@ section{
     text-align: center;
     padding-left: 450px;
 }
+
+.flex{
+    display: flex;
+}
+.new-size img{
+    width: 50%;
+    padding-left: 80px;
+}
+.new-size{
+    padding-left: 80px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+p{
+    padding-left: 80px;
+}
+h3{
+    padding-left: 80px;
+}
