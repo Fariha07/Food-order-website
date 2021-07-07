@@ -1,8 +1,7 @@
 body{
-    font-family: 'Poppins', sans-serif;
-    
-    
+    font-family: 'Poppins', sans-serif;  
 }
+
 h1{
     font-size: 30px;    
 }
@@ -22,10 +21,11 @@ section{
 .link-box{
     text-decoration: none;
     background-image: linear-gradient(violet, indigo);
-    padding: 10px;
+    padding: 10px;   
     color: cornsilk;
     font-weight: 700;
     border-radius: 10px;
+    
 }
 .maintain-size-again{
     width: 20%;
